@@ -22,6 +22,6 @@ ALGORITMO PARA HACER UN TINTO
 18. esperar 5 minutos a que el cafe este listo y deje de gotear liquido por la boquilla
 19. apagar la cafetera
 20. tomar el vaso con tu mano
-21. beber el cafe.
+21. beber el cafe....
 
 ....................................................
